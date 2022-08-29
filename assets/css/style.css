@@ -1,0 +1,27 @@
+.menu {   
+    display: flex;
+    padding: 50px;
+    background-image: url(../img/html-color-codes-color-tutorials.jpg);
+    transform: translateY(-px)
+
+}
+.menu a{
+    color: #000;
+    padding-left: 60px;
+    text-decoration: none;
+}
+.menu a:hover{
+    color: chocolate
+}
+
+.menu a h1{
+    color: aliceblue;
+}
+
+.menu a h1:hover{
+    cursor: pointer;
+    color: chocolate;
+}
+i{
+    color: aliceblue;
+}
